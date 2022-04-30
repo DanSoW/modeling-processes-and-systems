@@ -1,2 +1,1 @@
-# modeling-processes-and-systems
- 
+This repository presents work on modeling processes and systems
